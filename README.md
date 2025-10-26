@@ -32,10 +32,10 @@
 <details>
   <summary>Click to expand</summary>
   <p align="center">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=R0G-shibir&show_icons=true&theme=tokyonight&hide=contribs">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fuad-Ali-Bakul&show_icons=true&theme=tokyonight&hide=contribs">
   </p>
   <p align="center">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0G-shibir&layout=compact&theme=tokyonight">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fuad-Ali-Bakul&layout=compact&theme=tokyonight">
   </p>
 </details>
 
